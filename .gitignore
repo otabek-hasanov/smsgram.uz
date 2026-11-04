@@ -1,0 +1,9 @@
+/vendor
+/node_modules
+/storage/logs/*
+!/storage/logs/.gitkeep
+/storage/cache/*
+!/storage/cache/.gitkeep
+npm-debug.log
+.DS_Store
+*.log

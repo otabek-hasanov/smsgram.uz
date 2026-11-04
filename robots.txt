@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+
+Disallow: /uz/dashboard
+Disallow: /uz/sms
+Disallow: /uz/templates
+Disallow: /uz/balance
+Disallow: /uz/profile
+Disallow: /ru/dashboard
+Disallow: /ru/sms
+Disallow: /ru/templates
+Disallow: /ru/balance
+Disallow: /ru/profile
+Disallow: /en/dashboard
+Disallow: /en/sms
+Disallow: /en/templates
+Disallow: /en/balance
+Disallow: /en/profile
+Disallow: /admin
+Disallow: /api/
+Disallow: /webhooks/
+Disallow: /database/
+Disallow: /app/
+Disallow: /bootstrap/
+Disallow: /vendor/
+
+Sitemap: https://smsgram.uz/sitemap.xml
